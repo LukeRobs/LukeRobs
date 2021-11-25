@@ -1,4 +1,4 @@
-### ola!!, eu sou o Lucas Robson
+### ola!!, eu sou Lucas Robson
 
 <div align="center">
   <a href="https://github.com/LukeRobs">
